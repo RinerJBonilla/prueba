@@ -1,0 +1,25 @@
+1. create a repository
+-git init
+
+2. commits
+-git add "file"
+-git add -u (all)
+-git commit -m "Message"
+
+3.create new branch
+-git checkout -b name
+
+4.differencies
+-git diff
+
+5.change branch
+-git checkout name
+
+6.upload
+-git push origi branch
+
+7.delete a branch
+-git branch -D name
+
+8. download changes
+-git pull origin branch
